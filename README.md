@@ -46,10 +46,11 @@ These tell specific numbers and could be used to effectively and efficiently imp
 ## Deliverable 3
 
 
-# Top Starting Location 
+### Top Starting Location 
 
 (link: https://public.tableau.com/app/profile/ahmed.faraz/viz/Citibike_16602341577020/TopStartingLocations?publish=yes) 
-# Top Ending Location
+
+### Top Ending Location
 
 (Link: https://public.tableau.com/app/profile/ahmed.faraz/viz/Citibike_16602341577020/TopEndingLocations?publish=yes) 
 
