@@ -6,14 +6,14 @@ August is used as the month, as this is peak month, to understand the feasibilit
 
 ## Results
 
-# Check out time for users
+### Check out time for users
 
-# Check out time by Gender
+### Check out time by Gender
 
-# Trips by Weekday by Hour
+### Trips by Weekday by Hour
 
-# Trips by Gender (Weekday per Hour)
+### Trips by Gender (Weekday per Hour)
 
-# User Trips by Gender by Weekday
+### User Trips by Gender by Weekday
 
 ## Summary
