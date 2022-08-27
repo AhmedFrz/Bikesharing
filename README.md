@@ -5,6 +5,7 @@ Deliverable 1:
 
 ### Number of Trips
 (link: https://public.tableau.com/app/profile/ahmed.faraz/viz/Citibike_16602341577020/Numberoftrips?publish=yes)
+![](images/Number%20of%20Trips.png)
 
 ### August Peak Hours
 (Link: https://public.tableau.com/app/profile/ahmed.faraz/viz/Citibike_16602341577020/AugustPeakHours?publish=yes)
