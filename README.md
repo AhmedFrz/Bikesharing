@@ -43,7 +43,7 @@ These tell specific numbers and could be used to effectively and efficiently imp
 
 
 
-## Deliverable 3
+## Deliverable 3.
 
 
 ### Top Starting Location 
