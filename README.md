@@ -1,6 +1,6 @@
 # Bikesharing
 
-Deliverable 1: 
+## Deliverable 1: 
 
 
 ### Number of Trips
@@ -73,13 +73,17 @@ These tell specific numbers and could be used to effectively and efficiently imp
 
 ## Deliverable 3.
 
-Story 
+### Story 1 (5 viz)
 
 ![](Resources/story%201.png)
 ![](Resources/story%202.png)
 ![](Resources/story%203.png)
 ![](Resources/story%204.png)
 ![](Resources/story%205.png)
+
+### Story 2 (2 viz)
+![](Resources/Story%201.1.png)
+![](Resources/Story%201.2.png)
 
 ### Top Starting Location 
 (link: https://public.tableau.com/app/profile/ahmed.faraz/viz/Citibike_16602341577020/TopStartingLocations?publish=yes) 
