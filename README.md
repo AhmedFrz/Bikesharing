@@ -73,6 +73,13 @@ These tell specific numbers and could be used to effectively and efficiently imp
 
 ## Deliverable 3.
 
+Story 
+
+![](Resources/story%201.png)
+![](Resources/story%202.png)
+![](Resources/story%203.png)
+![](Resources/story%204.png)
+![](Resources/story%205.png)
 
 ### Top Starting Location 
 (link: https://public.tableau.com/app/profile/ahmed.faraz/viz/Citibike_16602341577020/TopStartingLocations?publish=yes) 
