@@ -84,6 +84,7 @@ These tell specific numbers and could be used to effectively and efficiently imp
 ### Story 2 (2 viz)
 ![](Resources/Story%201.1.png)
 ![](Resources/Story%201.2.png)
+.
 
 ### Top Starting Location 
 (link: https://public.tableau.com/app/profile/ahmed.faraz/viz/Citibike_16602341577020/TopStartingLocations?publish=yes) 
